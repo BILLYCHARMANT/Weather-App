@@ -1,4 +1,3 @@
-// Replace 'YOUR_API_KEY' with your actual API key from a weather API provider
 const apiKey = '994af7657be84bcb983180756232907';
 const weatherForm = document.getElementById('weatherForm');
 const locationInput = document.getElementById('locationInput');
